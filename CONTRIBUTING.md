@@ -18,3 +18,6 @@ Your contributions are always welcome!
 * Remove any trailing whitespace.
 
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submit it for you.**
+
+## 2020.06.09
+Bitte sende eine Email an: lieblings:kollege@firma.com
